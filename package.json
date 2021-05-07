@@ -1,0 +1,26 @@
+{
+  "name": "cypress_quete_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-diagana/cypress_quete_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-diagana/cypress_quete_4/issues"
+  },
+  "homepage": "https://github.com/ben-diagana/cypress_quete_4#readme",
+  "devDependencies": {
+    "cypress": "^7.2.0",
+    "cypress-file-upload": "^5.0.7"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.0"
+  }
+}
